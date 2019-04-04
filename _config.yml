@@ -1,6 +1,6 @@
 # main text of home
 name: Annisa Dea
-bio: Graduate student @ University of Chicago. Interested in molecular mechanisms in natural biological processes.
+bio: Molecular Biologist in Training. Interested in investigating molecular mechanisms through a combination of classical genetics and high-throughput methods.
 
 # twitter summary info
 description: Hi! I'm Annisa, a molecular biologist in training. I will be posting projects, fun tidbits through this site.
@@ -13,8 +13,8 @@ picture: assets/images/profile.png
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
-resume-url: https://google.com/?q=my+resume
+resume-external: true
+resume-url: resume.html
 
 url: https://annisa-dea.github.io
 # your url: http://USERNAME.github.io
@@ -31,7 +31,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories:  # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: annisadea
@@ -39,7 +39,7 @@ twitter: annisadea17
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: annisa-dea-116aa09b
 # youtube: myyoutube
 # spotify: myspotify
 github: annisa-dea
@@ -48,7 +48,7 @@ github: annisa-dea
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: adea@g.hmc.edu
