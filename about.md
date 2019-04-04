@@ -4,19 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi! I'm Annisa, and I am an incoming first-year PhD student in the Cell and Molecular Biology program at the University of Chicago. I am broadly interested in combining methods of classical molecular biology and genetics with modern, high-throughput processes to elucidate uncovered molecular provesses. Previously, I worked as a research assistant with Dr. Elizabeth Hong at Caltech to investigate the mechanisms of neuronal wiring of the <i>Drosophila</i> olfactory circuit. I graduated from Harvey Mudd College in 2017 with a degree in Biology and Chemistry, where I looked at the molecular mechanisms of aging in fruit flies.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Outside the lab, I enjoy going hiking, rock climbing, swing-dancing, and board games. </p>
 
 <h2>Skills</h2>
 
@@ -39,8 +29,3 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
