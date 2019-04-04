@@ -1,7 +1,7 @@
 ---
 title: Resume
 layout: page
-permalink: /resume.html
+permalink: resume.html
 ---
 
 ## Test out here
